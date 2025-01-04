@@ -33,12 +33,12 @@ const About = () => {
 
                     <div className="flex gap-4">
                         <Button onClick={open} className="!text-primarycolor lg-mx:mt-2 !w-fit" size="lg" variant="outline" color="#64FFDA">Resume</Button>
-                        <Button component="a" href="/DiaResume.pdf" download={"DiaJain"} className="!text-primarycolor lg-mx:mt-2 !w-fit" size="lg" variant="outline" color="#64FFDA" rightSection={<IconDownload size={24} />}>Download</Button>
+                        <Button component="a" href="DiaResume.pdf" download={"DiaJain"} className="!text-primarycolor lg-mx:mt-2 !w-fit" size="lg" variant="outline" color="#64FFDA" rightSection={<IconDownload size={24} />}>Download</Button>
                     </div>
                 </div>
                 <div className="h-[50vh] mx-7  flex justify-center  rounded-full items-center bs:mr-14 w-fit" id="photo">
                 <NeonGradientCard className="max-w-sm items-center justify-center text-center rounded-full">
-                    <img className=" w-[260px] h-[400px] object-cover rounded-full " src="/profileimg.jpeg" alt="profile" />
+                    <img className=" w-[260px] h-[400px] object-cover rounded-full " src="profileimg.jpeg" alt="profile" />
                 </NeonGradientCard>
 
                 </div>
