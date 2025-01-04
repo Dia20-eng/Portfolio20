@@ -55,40 +55,40 @@ const SkillInfo = [
    {
      category: "Frontend",
      skills: [
-       { name: "HTML", icon: "/Icons/HTML.png" },
-       { name: "CSS", icon: "/Icons/CSS.png" },
-       { name: "JavaScript", icon: "/Icons/JavaScript.png" },
-       { name: "React JS", icon: "/Icons/ReactJS.png" },
-       { name: "TailwindCSS", icon: "/Icons/TailwindCSS.png" },
-       { name: "BootStrap", icon: "/Icons/Bootstrap.png" },
+       { name: "HTML", icon: "Icons/HTML.png" },
+       { name: "CSS", icon: "Icons/CSS.png" },
+       { name: "JavaScript", icon: "Icons/JavaScript.png" },
+       { name: "React JS", icon: "Icons/ReactJS.png" },
+       { name: "TailwindCSS", icon: "Icons/TailwindCSS.png" },
+       { name: "BootStrap", icon: "Icons/Bootstrap.png" },
        
      ],
    },
    {
      category: "Backend",
      skills: [
-       { name: "Spring Boot", icon: "/Icons/Springboot.png" },
-       { name: "MongoDB", icon: "/Icons/MongoDB.png" },
-       { name: "PostgresSQL", icon: "/Icons/PostgresSQL.png" },
-       { name: "MySQL", icon: "/Icons/MySQL.png" },
+       { name: "Spring Boot", icon: "Icons/Springboot.png" },
+       { name: "MongoDB", icon: "Icons/MongoDB.png" },
+       { name: "PostgresSQL", icon: "Icons/PostgresSQL.png" },
+       { name: "MySQL", icon: "Icons/MySQL.png" },
      ],
    },
    {
      category: "Languages",
      skills: [
-       { name: "Java", icon: "/Icons/Java.png" },
-       { name: "JavaScript", icon: "/Icons/JavaScript.png" },
-       { name: "C", icon: "/Icons/C.png" },
+       { name: "Java", icon: "Icons/Java.png" },
+       { name: "JavaScript", icon: "Icons/JavaScript.png" },
+       { name: "C", icon: "Icons/C.png" },
        
      ],
    },
    {
      category: "Tools",
      skills: [
-       { name: "Git", icon: "/Icons/Git.png" },
-       { name: "Github", icon: "/Icons/Github.png" },
-       { name: "VScode", icon: "/Icons/VScode.png" },
-       { name: "Postman", icon: "/Icons/Postman.png" },
+       { name: "Git", icon: "Icons/Git.png" },
+       { name: "Github", icon: "Icons/Github.png" },
+       { name: "VScode", icon: "Icons/VScode.png" },
+       { name: "Postman", icon: "Icons/Postman.png" },
 
      ],
    },
