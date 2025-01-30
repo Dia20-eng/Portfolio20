@@ -5,7 +5,7 @@ import { IconBrandGithub, IconBrandInstagram, IconBrandLeetcode, IconBrandLinked
 const Info={
     name:"Dia Jain",
     Stack:["Software Engineer","Full Stack Web Developer","Java Developer"],
-    bio:"I am a passionate Java software engineer with a strong foundation in both frontend and backend development. My frontend expertise includes HTML, CSS, JavaScript, and React, while I also have experience using Tailwind CSS for designing responsive and modern interfaces. On the backend, I excel at building robust systems and have a deep understanding of Java. I am skilled in data structures and algorithms, enabling me to craft efficient and scalable solutions. Additionally, I have a growing interest in machine learning and enjoy exploring its applications. My goal is to continuously learn and innovate to build impactful software solutions."
+    bio:"I am a passionate Java software engineer with a strong foundation in both frontend and backend development. My frontend expertise includes HTML, CSS, JavaScript, and React, while I also have experience using Tailwind CSS for designing responsive and modern interfaces."
 }
 const sociallinks=[
    {link: "https://github.com/Dia20-eng",
@@ -55,40 +55,42 @@ const SkillInfo = [
    {
      category: "Frontend",
      skills: [
-       { name: "HTML", icon: "Icons/HTML.png" },
-       { name: "CSS", icon: "Icons/CSS.png" },
-       { name: "JavaScript", icon: "Icons/JavaScript.png" },
-       { name: "React JS", icon: "Icons/ReactJS.png" },
-       { name: "TailwindCSS", icon: "Icons/TailwindCSS.png" },
-       { name: "BootStrap", icon: "Icons/Bootstrap.png" },
+       { name: "HTML", icon: "Icons/HTML-removebg-preview.png" },
+       { name: "CSS", icon: "Icons/CSS-removebg-preview.png" },
+       { name: "JavaScript", icon: "Icons/JavaScript-removebg-preview.png" },
+       { name: "React JS", icon: "Icons/ReactJS-removebg-preview.png" },
+       { name: "TailwindCSS", icon: "Icons/TailwindCSS-removebg-preview.png" },
+       { name: "BootStrap", icon: "Icons/Bootstrap-removebg-preview.png" },
+       { name: "TypeScript", icon: "Icons/TypeScript-removebg-preview.png" },
+
        
      ],
    },
    {
      category: "Backend",
      skills: [
-       { name: "Spring Boot", icon: "Icons/Springboot.png" },
-       { name: "MongoDB", icon: "Icons/MongoDB.png" },
-       { name: "PostgresSQL", icon: "Icons/PostgresSQL.png" },
-       { name: "MySQL", icon: "Icons/MySQL.png" },
+       { name: "Spring Boot", icon: "Icons/Springboot-removebg-preview.png" },
+       { name: "MongoDB", icon: "Icons/MongoDB-removebg-preview.png" },
+       { name: "PostgresSQL", icon: "Icons/PostgresSQL-removebg-preview.png" },
+       { name: "MySQL", icon: "Icons/MySQL-removebg-preview.png" },
      ],
    },
    {
      category: "Languages",
      skills: [
-       { name: "Java", icon: "Icons/Java.png" },
-       { name: "JavaScript", icon: "Icons/JavaScript.png" },
-       { name: "C", icon: "Icons/C.png" },
+       { name: "Java", icon: "Icons/Java-removebg-preview.png" },
+       { name: "JavaScript", icon: "Icons/JavaScript-removebg-preview.png" },
+       { name: "C", icon: "Icons/C-removebg-preview.png" },
        
      ],
    },
    {
      category: "Tools",
      skills: [
-       { name: "Git", icon: "Icons/Git.png" },
-       { name: "Github", icon: "Icons/Github.png" },
-       { name: "VScode", icon: "Icons/VScode.png" },
-       { name: "Postman", icon: "Icons/Postman.png" },
+       { name: "Git", icon: "Icons/Git-removebg-preview.png" },
+       { name: "Github", icon: "Icons/Github-removebg-preview.png" },
+       { name: "VScode", icon: "Icons/VScode-removebg-preview.png" },
+       { name: "Postman", icon: "Icons/Postman-removebg-preview.png" },
 
      ],
    },
@@ -133,4 +135,4 @@ const SkillInfo = [
 ];
  
 
-export { Info, ProjectInfo,SkillInfo,ExperienceInfo,Slugs ,sociallinks}
+export { Info, ProjectInfo,SkillInfo,ExperienceInfo, Slugs ,sociallinks}

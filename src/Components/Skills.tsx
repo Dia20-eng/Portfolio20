@@ -18,7 +18,7 @@ const Skills = () => {
                 {category.skills.map((skill, skillIndex) => (
                   <div
                     key={skillIndex}
-                    className="bg-dark-300 text-textColor py-1 px-3 rounded-full flex items-center gap-2"
+                    className="flex font-mono text-textColor flex-wrap justify-around md-mx:justify-between sm-mx:justify-center gap-4 md-mx:gap-2"
                   >
                     {skill.icon && (
                       <img

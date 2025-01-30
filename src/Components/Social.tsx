@@ -12,11 +12,11 @@ const Social = () => {
   })
 
 
-  return <div className="flex items-center text-textColor  gap-10 fixed bottom-40 -left-44 rotate-90 ">
+  return <div className="flex md-mx:hidden text-textColor p-3 first-line:items-center gap-8 fixed bottom-32 -left-48 rotate-90">
 
     {socialicons}
 
-    <hr className="border-[2px] w-40 rounded-full  bg-textColor  border-textColor " />
+    <hr className="border-[4px] w-40 rounded-full  bg-textColor  border-textColor " />
   </div>
 }
 export default Social;
