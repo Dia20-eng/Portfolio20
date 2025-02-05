@@ -3,7 +3,7 @@ import Experience from './Components/Experience';
 import { IconBrandGithub, IconBrandInstagram, IconBrandLeetcode, IconBrandLinkedin } from "@tabler/icons-react";
 
 const Info={
-    name:"Dia Jain",
+    name:"shiku Jain",
     Stack:["Software Engineer","Full Stack Web Developer","Java Developer"],
     bio:"I am a passionate Java software engineer with a strong foundation in both frontend and backend development. My frontend expertise includes HTML, CSS, JavaScript, and React, while I also have experience using Tailwind CSS for designing responsive and modern interfaces."
 }
